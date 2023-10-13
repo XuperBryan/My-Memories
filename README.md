@@ -1,5 +1,8 @@
 # My-Memories
-Visit the website below!
+View the demo here:
+https://www.youtube.com/watch?v=MAZwwFAk7mM
+
+Visit the website below! (deprecated)
 https://my-memory-dashboard.netlify.app/
 
 Full Stack Application using MERN tech stack    
